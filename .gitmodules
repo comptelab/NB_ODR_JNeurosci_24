@@ -2,3 +2,11 @@
 	path = NeuroTorch
 	url = https://github.com/kiriclope/NeuroTorch/
 	branch = odr_paper
+[submodule "LIF"]
+	path = LIF
+	url = https://github.com/kiriclope/SPINN/
+	branch = odr_paper
+[submodule "Rate"]
+	path = Rate
+	url = https://github.com/kiriclope/NeuroTorch/
+	branch = odr_paper
