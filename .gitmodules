@@ -1,0 +1,4 @@
+[submodule "NeuroTorch"]
+	path = NeuroTorch
+	url = https://github.com/kiriclope/NeuroTorch/
+	branch = odr_paper
