@@ -10,3 +10,7 @@
 	path = Rate
 	url = https://github.com/kiriclope/NeuroTorch/
 	branch = odr_paper
+[submodule "Behavior"]
+	path = Behavior
+	url = git@github.com:kiriclope/nb_stim_data.git
+	branch = odr_paper
